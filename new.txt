@@ -1,0 +1,20 @@
+[1mdiff --git a/indexa.html b/indexa.html[m
+[1mindex 93da2a5..bc48291 100644[m
+[1m--- a/indexa.html[m
+[1m+++ b/indexa.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-git [m
+\ No newline at end of file[m
+[32m+[m[32mgit[m[41m [m
+[32m+[m[32m<p> this is new feature.</p>[m
+\ No newline at end of file[m
+[1mdiff --git a/intex1.txt b/intex1.txt[m
+[1mindex b6fc4c6..6cf9f04 100644[m
+[1m--- a/intex1.txt[m
+[1m+++ b/intex1.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-hello[m
+\ No newline at end of file[m
+[32m+[m[32mhello[m
+[32m+[m[32mthis is chenge in branch.[m
+\ No newline at end of file[m
